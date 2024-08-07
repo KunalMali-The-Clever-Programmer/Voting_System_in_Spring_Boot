@@ -89,4 +89,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-For any questions or feedback, please contact us at support@votingsystem.com.
+For any questions or feedback, please contact us at malikunal746@gmail.com.
