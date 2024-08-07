@@ -90,3 +90,17 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 For any questions or feedback, please contact us at malikunal746@gmail.com.
+
+### Output 
+![Screenshot (38)](https://github.com/user-attachments/assets/b660a5ec-2bd3-44bc-9f2d-e947a0e1672e)
+![Screenshot (39)](https://github.com/user-attachments/assets/3e323a76-db07-4613-8651-9114782b821d)
+![Screenshot (40)](https://github.com/user-attachments/assets/60083f7c-9a74-48e4-94aa-fa057143331d)
+![Screenshot (41)](https://github.com/user-attachments/assets/df0b2a62-4030-46fc-bc43-ce790719a0f8)
+![Screenshot (42)](https://github.com/user-attachments/assets/e6a0e8bc-7ece-4b8d-80dd-3f6bbf91460a)
+![Screenshot (43)](https://github.com/user-attachments/assets/ae254654-0b73-4e24-af27-bcbf6fbf038e)
+![Screenshot (44)](https://github.com/user-attachments/assets/682d85f6-1e18-4a33-8182-8acc1d70b5bc)
+![Screenshot (45)](https://github.com/user-attachments/assets/90e54d88-98e6-4ab1-8271-7d86f6246d2c)
+![Screenshot (45)](https://github.com/user-attachments/assets/763810c2-89e8-4b7b-a738-5ca6b891db60)
+![Screenshot (47)](https://github.com/user-attachments/assets/258df41d-bd60-4bb6-ab70-6047f6bc856d)
+![Screenshot (48)](https://github.com/user-attachments/assets/da9ba65c-e00e-42ba-a6c5-01b57bd9423b)
+![Screenshot (49)](https://github.com/user-attachments/assets/c19c11d7-a769-4f9e-8f32-eba569a3fadc)
